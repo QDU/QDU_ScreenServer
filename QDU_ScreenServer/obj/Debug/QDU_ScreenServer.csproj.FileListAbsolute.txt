@@ -1,0 +1,10 @@
+C:\Users\iceshadows\source\repos\QDU_ScreenServer\QDU_ScreenServer\bin\Debug\青岛大学互联宣传栏.exe.config
+C:\Users\iceshadows\source\repos\QDU_ScreenServer\QDU_ScreenServer\bin\Debug\青岛大学互联宣传栏.exe
+C:\Users\iceshadows\source\repos\QDU_ScreenServer\QDU_ScreenServer\bin\Debug\青岛大学互联宣传栏.pdb
+C:\Users\iceshadows\source\repos\QDU_ScreenServer\QDU_ScreenServer\obj\Debug\QDU_ScreenServer.csprojAssemblyReference.cache
+C:\Users\iceshadows\source\repos\QDU_ScreenServer\QDU_ScreenServer\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\iceshadows\source\repos\QDU_ScreenServer\QDU_ScreenServer\obj\Debug\青岛大学互联宣传栏.Properties.Resources.resources
+C:\Users\iceshadows\source\repos\QDU_ScreenServer\QDU_ScreenServer\obj\Debug\QDU_ScreenServer.csproj.GenerateResource.cache
+C:\Users\iceshadows\source\repos\QDU_ScreenServer\QDU_ScreenServer\obj\Debug\QDU_ScreenServer.csproj.CoreCompileInputs.cache
+C:\Users\iceshadows\source\repos\QDU_ScreenServer\QDU_ScreenServer\obj\Debug\青岛大学互联宣传栏.exe
+C:\Users\iceshadows\source\repos\QDU_ScreenServer\QDU_ScreenServer\obj\Debug\青岛大学互联宣传栏.pdb
